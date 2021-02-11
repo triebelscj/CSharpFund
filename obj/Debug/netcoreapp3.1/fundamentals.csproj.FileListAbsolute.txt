@@ -1,0 +1,12 @@
+/Users/cjtriebels/Desktop/c#/fundamentals/bin/Debug/netcoreapp3.1/fundamentals.deps.json
+/Users/cjtriebels/Desktop/c#/fundamentals/bin/Debug/netcoreapp3.1/fundamentals.runtimeconfig.json
+/Users/cjtriebels/Desktop/c#/fundamentals/bin/Debug/netcoreapp3.1/fundamentals.runtimeconfig.dev.json
+/Users/cjtriebels/Desktop/c#/fundamentals/bin/Debug/netcoreapp3.1/fundamentals.dll
+/Users/cjtriebels/Desktop/c#/fundamentals/bin/Debug/netcoreapp3.1/fundamentals.pdb
+/Users/cjtriebels/Desktop/c#/fundamentals/obj/Debug/netcoreapp3.1/fundamentals.csprojAssemblyReference.cache
+/Users/cjtriebels/Desktop/c#/fundamentals/obj/Debug/netcoreapp3.1/fundamentals.AssemblyInfoInputs.cache
+/Users/cjtriebels/Desktop/c#/fundamentals/obj/Debug/netcoreapp3.1/fundamentals.AssemblyInfo.cs
+/Users/cjtriebels/Desktop/c#/fundamentals/obj/Debug/netcoreapp3.1/fundamentals.csproj.CoreCompileInputs.cache
+/Users/cjtriebels/Desktop/c#/fundamentals/obj/Debug/netcoreapp3.1/fundamentals.dll
+/Users/cjtriebels/Desktop/c#/fundamentals/obj/Debug/netcoreapp3.1/fundamentals.pdb
+/Users/cjtriebels/Desktop/c#/fundamentals/obj/Debug/netcoreapp3.1/fundamentals.genruntimeconfig.cache
